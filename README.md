@@ -11,10 +11,22 @@ git clone https://github.com/sungithubid/mcp-url2markdown.git
 uv sync
 ```
 
-
 ## 使用
-Cursor，cline，roo code等工具配置
 
+**1. FastMCP cli run server**
+```bash
+source .venv/bin/activate
+fastmcp dev server.py
+```
+
+打开```http://127.0.0.1:6274/``` 测试
+
+
+![](https://github.com/user-attachments/assets/8194028c-c588-44c6-93e4-10c74a009d33)
+
+**2. 使用Cursor，cline，roo code等工具**
+
+配置
 ```json
 {
   "mcpServers": {
