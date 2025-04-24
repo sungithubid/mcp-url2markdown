@@ -47,3 +47,15 @@ fastmcp dev server.py
 }
 ```
 
+使用roo code测试
+输入
+
+```
+把如下网址的网页内容转成markdown输出
+https://api-docs.deepseek.com/zh-cn/guides/kv_cache
+```
+
+执行与输出
+
+![](https://github.com/user-attachments/assets/59973374-dd22-4f6c-be3b-acf75fd97fad)
+
